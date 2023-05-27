@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8632c0b-1b77-4642-bb23-e6dce6908f07" name="Changes" comment="renamed project in the package json file">
+      <change beforePath="$PROJECT_DIR$/../LogN-Backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../LogN-Backend/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LogN-Backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../LogN-Backend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LogN-Frontend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LogN-Frontend.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
