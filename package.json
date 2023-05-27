@@ -2,9 +2,9 @@
   "name": "logn",
   "version": "2.3.0",
   "scripts": {
-    "dev": "astro check --watch & astro dev",
-    "start": "astro dev",
-    "build": "astro build && jampack ./dist",
+    "dev": "astro check --watch & astro dev & cd ./logn-backend && npm run dev",
+    "start": "astro dev && cd ./logn-backend & npm run dev",
+    "build": "astro build && jampack ./dist & cd ./logn-backend && npm run build",
     "preview": "astro preview",
     "sync": "astro sync",
     "astro": "astro",

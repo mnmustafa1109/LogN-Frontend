@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8632c0b-1b77-4642-bb23-e6dce6908f07" name="Changes" comment="added payload cms" />
+    <list default="true" id="b8632c0b-1b77-4642-bb23-e6dce6908f07" name="Changes" comment="removed backend">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logn-backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logn-backend/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logn-backend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logn-backend/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logn-backend/nodemon.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logn-backend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logn-backend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logn-backend/src/collections/Categories.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logn-backend/src/collections/Media.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logn-backend/src/collections/Posts.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logn-backend/src/collections/Tags.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logn-backend/src/collections/Users.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logn-backend/src/payload.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logn-backend/src/server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logn-backend/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +37,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -48,21 +70,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "mustafa",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "/home/mnmustafa1109/WebstormProjects/LogN/logn-backend/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;mustafa&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/mnmustafa1109/WebstormProjects/LogN/logn-backend/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -83,7 +105,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685188097198</updated>
-      <workItem from="1685188104240" duration="515000" />
+      <workItem from="1685188104240" duration="610000" />
+      <workItem from="1685193911208" duration="1387000" />
     </task>
     <task id="LOCAL-00001" summary="added payload cms">
       <created>1685188239507</created>
@@ -92,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685188239507</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added config for web storms">
+      <created>1685188695275</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685188695275</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +153,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added payload cms" />
-    <option name="LAST_COMMIT_MESSAGE" value="added payload cms" />
+    <MESSAGE value="added config for web storms" />
+    <MESSAGE value="removed backend" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed backend" />
   </component>
 </project>
