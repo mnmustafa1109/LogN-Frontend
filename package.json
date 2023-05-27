@@ -1,5 +1,5 @@
 {
-  "name": "logn",
+  "name": "logn-frontend",
   "version": "2.3.0",
   "scripts": {
     "dev": "astro check --watch & astro dev",

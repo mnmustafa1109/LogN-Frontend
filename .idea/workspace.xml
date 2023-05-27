@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8632c0b-1b77-4642-bb23-e6dce6908f07" name="Changes" comment="removed backend">
+    <list default="true" id="b8632c0b-1b77-4642-bb23-e6dce6908f07" name="Changes" comment="renamed project in the package json file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logn-backend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logn-backend/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logn-backend/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logn-backend/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logn-backend/nodemon.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logn-backend/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logn-backend/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logn-backend/src/collections/Categories.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logn-backend/src/collections/Media.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logn-backend/src/collections/Posts.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logn-backend/src/collections/Tags.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logn-backend/src/collections/Users.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logn-backend/src/payload.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logn-backend/src/server.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logn-backend/tsconfig.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +59,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;mustafa&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mnmustafa1109&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -107,6 +93,8 @@
       <updated>1685188097198</updated>
       <workItem from="1685188104240" duration="610000" />
       <workItem from="1685193911208" duration="1387000" />
+      <workItem from="1685195807573" duration="527000" />
+      <workItem from="1685196348200" duration="548000" />
     </task>
     <task id="LOCAL-00001" summary="added payload cms">
       <created>1685188239507</created>
@@ -155,6 +143,7 @@
     <MESSAGE value="added payload cms" />
     <MESSAGE value="added config for web storms" />
     <MESSAGE value="removed backend" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed backend" />
+    <MESSAGE value="renamed project in the package json file" />
+    <option name="LAST_COMMIT_MESSAGE" value="renamed project in the package json file" />
   </component>
 </project>
